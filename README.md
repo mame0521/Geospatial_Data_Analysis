@@ -797,6 +797,12 @@ print('成本增加额： ',R2)
 ```
 
 
+## 结论
+
+## conclusion
+This project discusses in depth the pricing problem of new self-service crowdsourcing platform software such as “taking photos to make money”. Using the idea of mathematical modeling to study its geographical location, membership density and task pricing, the main factors affecting the pricing law are obtained. On this basis, the tasks of different heat and price are packaged together, and a set of pricing scheme is established through linear regression, cluster analysis, PCA and other methods. The final result shows that the scheme is suitable for application, the price is reasonable, and has the advantages of practicality, high accuracy, strong attraction and mutual benefit.
+
+改项目针对“拍照赚钱”这类新型自助式劳务众包平台软件的定价问题展开深入讨论。利用数学建模的思想对其地理位置，会员密度和任务定价进行研究，得到了影响定价规律的主要因素。在此基础上，将不同热度、价格的任务打包起来，通过线性回归、聚类分析、主成分分析等方法建立了一套定价方案。最终结果表明，建立的方案适合应用、价格合理，并且具有切合实际、准确度高、吸引力强、互惠共利等优点。
 
 
 
