@@ -162,6 +162,22 @@ Z9	对每一个任务，计算其 Q 公里范围内的所有会员在 7:24-7:39 
 Z10	对每一个任务，计算其 Q 公里范围内的所有会员在 7:42-7:57 时段可预订任务限额
 Z11	对每一个任务，计算其 Q 公里范围内的所有会员在 8:00 时段可预订任务限额
 ```
+```
+For each task, Z1 calculates the number of all tasks within its Q kilometers
+For each task, Z2 calculates the average price of all tasks within its Q km
+For each task, Z2 calculates the number of all members within its Q kilometers
+Z3 calculates the average reputation of all members within Q kilometers for each task
+For each task, Z4 calculates the quota of all members' all time slots available for booking within its Q kilometers
+For each mission, Z5 calculates the mission quota that can be booked by all members within a Q kilometer radius at 6:30
+For each mission, Z6 calculates the quota of missions available for all members within its Q km range between 6:33 and 6:45
+For each mission, Z7 calculates the quota of missions that can be booked by all members within its Q km range between 6:48 and 7:03
+For each mission, Z8 calculates the mission quota available for all members within its Q km range from 7:06 to 7:21
+For each mission, Z9 calculates the mission quota available for all members within its Q km range from 7:24 to 7:39
+For each mission, Z10 calculates the mission quota available for all members within its Q km range from 7:42 to 7:57
+For each task, Z11 calculates the quota of tasks that can be booked by all members within the Q kilometer radius during the 8:00 hour
+
+```
+Where Q is kilometers
 
 其中Q为公里
 
