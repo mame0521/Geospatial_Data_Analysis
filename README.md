@@ -125,13 +125,15 @@ M.save('f.html')
 
 
 
-![img] (https://gitee.com/flycloud2009_cloudlou/img/raw/master/img/202303290015539.png)
+
+
+![image](https://user-images.githubusercontent.com/55887580/228315320-f75211e2-a5cb-4e19-ab3f-76d776ea4b7c.png)
+
+
+![image](https://user-images.githubusercontent.com/55887580/228315401-cc1f93fd-c932-45fe-9662-5a36d18a07a3.png)
 
 
 
-
-
-![img](https://gitee.com/flycloud2009_cloudlou/img/raw/master/img/202303290016668.png)
 
 ## 四、指标计算
 
@@ -542,7 +544,8 @@ sns.heatmap(Data.corr(),cmap="YlGnBu_r",linewidths=0.1,vmax=1.0, square=True,lin
 <matplotlib.axes._subplots.AxesSubplot at 0x19f7c163148>
 ```
 
-![png](output_49_1.png)
+![image-20230329012310702](https://gitee.com/flycloud2009_cloudlou/img/raw/master/img/202303290133521.png)
+
 
 ###### 3、标准化处理
 
@@ -759,10 +762,10 @@ print('成本增加额： ',R2)
 ```
 
 ```css
-模型准确率：  0.6961077844311377
-预测准确率：  0.6766467065868264
-任务完成增加量：  92
-成本增加额：  [-112.65800635]
+模型准确率：  0.9790419161676647
+预测准确率：  0.6747904191616766
+任务完成增加量：  105
+成本增加额：  [374.76380159]
 ```
 
 
